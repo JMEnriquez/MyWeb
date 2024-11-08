@@ -1,0 +1,32 @@
+2024-11-04 21:56:40.799 [info] [main] Log level: Info
+2024-11-04 21:56:40.799 [info] [main] Validating found git in: "git"
+2024-11-04 21:56:40.799 [info] [main] Using git "2.43.0" from "git"
+2024-11-04 21:56:40.799 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-04 21:56:40.799 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 21:56:40.799 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 21:56:40.799 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 21:56:40.799 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 21:56:40.799 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-04 21:56:40.799 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 21:56:40.801 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 21:56:40.801 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 21:56:40.802 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-04 21:56:53.621 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 21:56:53.621 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 22:03:13.789 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-04 22:03:13.789 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 22:03:53.842 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-04 22:03:53.842 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 22:03:54.371 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 22:03:54.371 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 22:03:55.751 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/d/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/d/'
+2024-11-04 22:03:55.754 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/es5-ext/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/es5-ext/'
+2024-11-04 22:03:55.756 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/eslint/node_modules/run-async/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/eslint/node_modules/run-async/'
+2024-11-04 22:03:55.757 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/resolve/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/resolve/'
+2024-11-04 22:03:55.758 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/acorn-jsx/node_modules/acorn/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/acorn-jsx/node_modules/acorn/'
+2024-11-04 22:03:55.759 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/balanced-match/'
+2024-11-04 22:03:55.760 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/es6-symbol/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/es6-symbol/'
+2024-11-04 22:03:55.761 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/ext/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/ext/'
+2024-11-04 22:03:55.762 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/supports-preserve-symlinks-flag/". Error:Error: ENOENT: no such file or directory, realpath '/home/jonathan/.vscode-server/extensions/.bed1de78-04ff-43e7-a3f7-9f2f0d4176c3/node_modules/supports-preserve-symlinks-flag/'
+2024-11-04 22:04:30.259 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 22:04:30.259 [info] fatal: not a git repository (or any of the parent directories): .git

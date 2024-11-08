@@ -1,0 +1,13 @@
+2024-11-04 22:06:34.763 [info] 
+
+
+
+
+2024-11-04 22:06:34.768 [info] Extension host agent started.
+2024-11-04 22:06:35.010 [info] [127.0.0.1][0334fb9e][ManagementConnection] New connection established.
+2024-11-04 22:06:35.119 [info] [127.0.0.1][f0b515b8][ExtensionHostConnection] New connection established.
+2024-11-04 22:06:35.160 [info] [127.0.0.1][f0b515b8][ExtensionHostConnection] <3056> Launched Extension Host Process.
+2024-11-04 22:06:48.900 [info] [127.0.0.1][f0b515b8][ExtensionHostConnection] <3056> [0mGET /favicon.ico [33m404[0m 0.943 ms - 150[0m
+
+2024-11-04 22:07:31.563 [info] [127.0.0.1][f0b515b8][ExtensionHostConnection] <3056> Extension Host Process exited with code: 0, signal: null.
+2024-11-04 22:07:31.566 [info] [127.0.0.1][0334fb9e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
